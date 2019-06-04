@@ -1,3 +1,2 @@
-# DESCRIPTION
+# Description
 Antifreeze protein project
-UPCH
