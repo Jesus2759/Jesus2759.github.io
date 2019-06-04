@@ -1,1 +1,1 @@
-![ADN](/Experimentos/GENETICA.png){:height="100px" width="100px"}
+![ADN](/Experimentos/GENETICA.jpg){:height="100px" width="100px"}
