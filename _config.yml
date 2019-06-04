@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: krandown
+title: PROYECTO iGEM
+description: Semilla iGEM UPCH
+show_download: true
